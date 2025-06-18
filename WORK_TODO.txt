@@ -1,3 +1,4 @@
 
-To test a migration from PHP7 to PHP8, create a simple PHP7 application using known incompabilities with PHP8. You will test it with a browser and a php7 docker container. Use "docker compose, not "docker-compose".
-Ask questions
+To test a migration from PHP7 to PHP8, create a simple PHP7 application using known incompabilities with PHP8. 
+You will test it with a browser and a php7 docker container. Use "docker compose, not "docker-compose".
+Ask questions.
